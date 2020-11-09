@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Simple application for writting and save notes online
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo: https://notepad-tool.web.app/
 
 ## Available Scripts
 
