@@ -1,0 +1,9 @@
+.tool-bar{
+    display: flex;
+    padding: 0.5em;
+    /* justify-content: center; */
+    background-color: rgb(228, 228, 228);
+}
+.tb-item {
+    margin-left: 0.5em;
+}
